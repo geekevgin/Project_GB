@@ -1,3 +1,2 @@
-user_number = int(input('Enter a number:'))
-x = user_number*123
-print(x)
+a = int(input('Enter a number:'))
+print(a + int(str(a) + str(a)) + int(str(a) + str(a) + str(a)))
