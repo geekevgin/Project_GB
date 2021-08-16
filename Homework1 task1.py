@@ -4,3 +4,4 @@ period_float = float(period_int)
 print(period_float)
 text_formatted = f'So you have rooted for {team_str} for {period_int} years'
 print(text_formatted)
+
